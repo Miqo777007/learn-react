@@ -1,0 +1,25 @@
+.section{
+     background-color: black;
+ padding: 10px; 
+ display: block;
+
+ }
+.first,.text{
+     
+     font-size: 25px;
+     color: whitesmoke;
+     position: relative;
+     text-align: center;
+    
+ }
+ .txt{
+      color: red;
+      margin: 10px;
+      border: 1px solid whitesmoke;
+      padding: 5px;
+ }
+ .head{
+      display: flex;
+      margin: 10px;
+ }
+ 

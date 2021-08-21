@@ -1,0 +1,11 @@
+.list{
+    background-color:rgb(75, 75, 83);
+    margin: 0;
+    
+ }
+ .list li{
+     color: whitesmoke;
+     position: relative;
+     text-align: center;
+     padding: 5px;
+ }
